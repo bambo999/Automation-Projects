@@ -1,0 +1,11 @@
+Whatapp Automation Project
+================================
+Automate a program for sending the bill details to all the users who made an invoice today
+
+The program should send the following to all the users with the following template
+
+"Hi{Name},
+Thanks for purchasing. Your bill is attached.
+Have a nice day"
+
+This bill should also be sent to the users along with the message as an atachment.
